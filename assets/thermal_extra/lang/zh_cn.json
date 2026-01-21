@@ -334,5 +334,8 @@
   "item.thermal_extra.zinc_dust": "锌粉",
   "item.thermal_extra.zinc_ore_chunk": "锌矿碎块",
   "thermal_extra.augment.upgrade": "提升基础属性。其他升级也可能由此得到进一步增强。",
-  "upgrade.thermal_extra.augment_upgrade": "增强升级"
+  "upgrade.thermal_extra.augment_upgrade": "增强升级",
+  "item.thermal_extra.naphtha_bucket": "石脑油桶",
+  "item.thermal_extra.paraffin_wax_bucket": "石蜡桶",
+  "item.thermal_extra.paraffin_wax": "石蜡"
 }
