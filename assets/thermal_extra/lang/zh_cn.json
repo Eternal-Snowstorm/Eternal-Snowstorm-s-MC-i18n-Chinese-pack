@@ -336,6 +336,12 @@
   "thermal_extra.augment.upgrade": "提升基础属性。其他升级也可能由此得到进一步增强。",
   "upgrade.thermal_extra.augment_upgrade": "增强升级",
   "item.thermal_extra.naphtha_bucket": "石脑油桶",
+  "item.thermal_extra.gasoline_bucket": "汽油桶",
   "item.thermal_extra.paraffin_wax_bucket": "石蜡桶",
+  "item.thermal_extra.lubricant_bucket": "润滑油桶",
+  "fluid_type.thermal_extra.naphtha": "石脑油",
+  "fluid_type.thermal_extra.gasoline": "汽油",
+  "fluid_type.thermal_extra.paraffin_wax": "石蜡",
+  "fluid_type.thermal_extra.lubricant": "润滑油",
   "item.thermal_extra.paraffin_wax": "石蜡"
 }
