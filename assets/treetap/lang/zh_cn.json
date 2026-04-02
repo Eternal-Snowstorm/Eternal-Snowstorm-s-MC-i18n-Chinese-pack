@@ -1,7 +1,7 @@
 {
     "block.treetap.tap": "树液漏斗",
-    "block.treetap.sap_collector": "铁质漏斗收集桶",
-    "block.treetap.wooden_sap_collector": "木质漏斗收集桶",
+    "block.treetap.sap_collector": "铁质收集桶",
+    "block.treetap.wooden_sap_collector": "木质收集桶",
     "item.treetap.tap.modifier": "汲取速率: %s",
     "jei.treetap.tap_extract": "树液汲取",
     "jei.treetap.life_cycle.months": "%s",
