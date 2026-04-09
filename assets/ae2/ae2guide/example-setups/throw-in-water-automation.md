@@ -17,35 +17,35 @@ navigation:
   <ImportStructure src="../assets/assemblies/throw_in_water.snbt" />
 
 <BoxAnnotation color="#dddddd" min="2 0 1" max="3 1 2">
-        (1) ME样板供应器：默认配置，载入相关处理样板
+		(1) ME样板供应器：默认配置，载入相关处理样板
 
-        ![福鲁伊克斯样板](../assets/diagrams/fluix_pattern_small.png) ![有瑕母岩样板](../assets/diagrams/flawed_budding_pattern_small.png)
+		![福鲁伊克斯样板](../assets/diagrams/fluix_pattern_small.png) ![有瑕母岩样板](../assets/diagrams/flawed_budding_pattern_small.png)
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1.7 0 1" max="2 1 2">
-        (2) ME接口：默认配置
+		(2) ME接口：默认配置
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 .7 1" max="2 1 2">
-        (3) ME成型面板：设置为投掷物品模式
+		(3) ME成型面板：设置为投掷物品模式
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 2 1" max="2 2.3 2">
-        (4) ME破坏面板：无需配置
+		(4) ME破坏面板：无需配置
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="2 1 1" max="3 1.3 2">
-        (5) 存储总线：过滤配方产物
-        <Row><ItemImage id="fluix_crystal" scale="2" /><BlockImage id="flawless_budding_quartz" scale="2" /></Row>
+		(5) 存储总线：过滤配方产物
+		<Row><ItemImage id="fluix_crystal" scale="2" /><BlockImage id="flawless_budding_quartz" scale="2" /></Row>
   </BoxAnnotation>
 
 <DiamondAnnotation pos="3.9 0.5 1.5" color="#00ff00">
-        连接主网络及充能自动化系统
-        <GameScene zoom="3" background="transparent">
-          <ImportStructure src="../assets/assemblies/charger_automation.snbt" />
-          <IsometricCamera yaw="195" pitch="30" />
-        </GameScene>
-    </DiamondAnnotation>
+		连接主网络及充能自动化系统
+		<GameScene zoom="3" background="transparent">
+		  <ImportStructure src="../assets/assemblies/charger_automation.snbt" />
+		  <IsometricCamera yaw="195" pitch="30" />
+		</GameScene>
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="180" pitch="0" />
 </GameScene>
@@ -55,11 +55,11 @@ navigation:
 * <ItemLink id="pattern_provider" /> (1) 保持默认配置，载入相关<ItemLink id="processing_pattern" />
   * 制作<ItemLink id="fluix_crystal" />使用JEI/REI默认配方：
 
-    ![福鲁伊克斯样板](../assets/diagrams/fluix_pattern.png)
+	![福鲁伊克斯样板](../assets/diagrams/fluix_pattern.png)
 
   * 制作<ItemLink id="flawed_budding_quartz" />建议直接使用<ItemLink id="quartz_block" />作为原料，避免输入输出循环导致过滤失效：
 
-    ![有瑕母岩样板](../assets/diagrams/flawed_budding_pattern.png)
+	![有瑕母岩样板](../assets/diagrams/flawed_budding_pattern.png)
 
 * <ItemLink id="interface" /> (2) 保持默认配置
 * <ItemLink id="formation_plane" /> (3) 设置为物品投掷模式

@@ -63,19 +63,19 @@ item_ids:
 
 <Column>
   <Row>
-    <RecipeFor id="white_paint_ball" />
+	<RecipeFor id="white_paint_ball" />
 
-    <RecipeFor id="orange_paint_ball" />
+	<RecipeFor id="orange_paint_ball" />
 
-    <RecipeFor id="green_paint_ball" />
+	<RecipeFor id="green_paint_ball" />
   </Row>
 
   <Row>
-    <RecipeFor id="blue_paint_ball" />
+	<RecipeFor id="blue_paint_ball" />
 
-    <RecipeFor id="red_paint_ball" />
+	<RecipeFor id="red_paint_ball" />
 
-    <RecipeFor id="black_paint_ball" />
+	<RecipeFor id="black_paint_ball" />
   </Row>
 
   <br />
@@ -103,18 +103,18 @@ item_ids:
 
 <Column>
   <Row>
-    <RecipeFor id="white_lumen_paint_ball" />
+	<RecipeFor id="white_lumen_paint_ball" />
 
-    <RecipeFor id="orange_lumen_paint_ball" />
+	<RecipeFor id="orange_lumen_paint_ball" />
 
-    <RecipeFor id="green_lumen_paint_ball" />
+	<RecipeFor id="green_lumen_paint_ball" />
   </Row>
 
   <Row>
-    <RecipeFor id="blue_lumen_paint_ball" />
+	<RecipeFor id="blue_lumen_paint_ball" />
 
-    <RecipeFor id="red_lumen_paint_ball" />
+	<RecipeFor id="red_lumen_paint_ball" />
 
-    <RecipeFor id="black_lumen_paint_ball" />
+	<RecipeFor id="black_lumen_paint_ball" />
   </Row>
 </Column>

@@ -1,328 +1,328 @@
 window {
-    size(160,208)
+	size(160,208)
 
-    bind('endchoice','endstate')
-    bind('mode', 'mode')
-    bind('stepcount','stepcount')
-    bind('delay','delay')
+	bind('endchoice','endstate')
+	bind('mode', 'mode')
+	bind('stepcount','stepcount')
+	bind('delay','delay')
 
-    panel('','vertical') {
-        bgthickness(2)
-        panel('','horizontal') {
-            desired(-1,13)
-            imagechoicelabel('grid0') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(176,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid1') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(176,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid2') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(176,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid3') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(176,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid4') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(176,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid5') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid6') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid7') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-        }
-        panel('','horizontal') {
-            desired(-1,13)
-            imagechoicelabel('grid8') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid9') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid10') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid11') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid12') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid13') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid14') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid15') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-        }
-        panel('','horizontal') {
-            desired(-1,13)
-            imagechoicelabel('grid16') {
-                channel('grid')
-                desired(-1,12)
-                image('rftoolsbase:textures/gui/guielements.png')
-                dim(160,0,256,256)
-                choices {
-                    choice('0') {
-                        uv(160,0)
-                        tooltips('低信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                    choice('1') {
-                        uv(176,0)
-                        tooltips('高信号')
-                        image('rftoolsbase:textures/gui/guielements.png')
-                    }
-                }
-            }
-            imagechoicelabel('grid17') {
+	panel('','vertical') {
+		bgthickness(2)
+		panel('','horizontal') {
+			desired(-1,13)
+			imagechoicelabel('grid0') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(176,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid1') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(176,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid2') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(176,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid3') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(176,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid4') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(176,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid5') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid6') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid7') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+		}
+		panel('','horizontal') {
+			desired(-1,13)
+			imagechoicelabel('grid8') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid9') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid10') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid11') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid12') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid13') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid14') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid15') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+		}
+		panel('','horizontal') {
+			desired(-1,13)
+			imagechoicelabel('grid16') {
+				channel('grid')
+				desired(-1,12)
+				image('rftoolsbase:textures/gui/guielements.png')
+				dim(160,0,256,256)
+				choices {
+					choice('0') {
+						uv(160,0)
+						tooltips('低信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+					choice('1') {
+						uv(176,0)
+						tooltips('高信号')
+						image('rftoolsbase:textures/gui/guielements.png')
+					}
+				}
+			}
+			imagechoicelabel('grid17') {
                 channel('grid')
                 desired(-1,12)
                 image('rftoolsbase:textures/gui/guielements.png')

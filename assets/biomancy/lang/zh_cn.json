@@ -399,7 +399,7 @@
   "ability.biomancy.fleshkin_affinity": "血肉亲和",
   "ability.biomancy.fleshkin_affinity.desc": "-5%原初温床敌意",
   "ability.biomancy.bio_alchemical_epidermis": "生物炼金上皮",
-  "ability.biomancy.bio_alchemical_epidermis.desc": "+15%外部施加负面效果抗性\n -25%注射抗性\n -25%注射伤害                  ",
+  "ability.biomancy.bio_alchemical_epidermis.desc": "+15%外部施加负面效果抗性\n -25%注射抗性\n -25%注射伤害				  ",
   "ability.biomancy.primordial_sight": "原初视觉",
   "ability.biomancy.primordial_sight.desc": "窥探温床内在",
   "tooltip.biomancy.fire_rate": "射速",

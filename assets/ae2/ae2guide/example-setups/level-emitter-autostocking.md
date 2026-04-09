@@ -13,23 +13,23 @@ navigation:
   <ImportStructure src="../assets/assemblies/level_emitter_autostocking.snbt" />
 
   <BoxAnnotation color="#dddddd" min="1 1 0" max="2 1.3 1">
-        (1) 输出总线：锁定目标物品，搭载红石卡+合成卡双模块
-        <Row><ItemImage id="redstone_card" scale="2" /> <ItemImage id="crafting_card" scale="2" /></Row>
-        ▶ 红石响应模式：有信号激活 | 合成策略：跳过现有库存
+		(1) 输出总线：锁定目标物品，搭载红石卡+合成卡双模块
+		<Row><ItemImage id="redstone_card" scale="2" /> <ItemImage id="crafting_card" scale="2" /></Row>
+		▶ 红石响应模式：有信号激活 | 合成策略：跳过现有库存
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="0.7 1 0" max="1 2 1">
-        (2) 标准发信器：设定补货阈值
-        ▶ 监控物品：铁锭 | 触发条件：存量＜512
+		(2) 标准发信器：设定补货阈值
+		▶ 监控物品：铁锭 | 触发条件：存量＜512
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1 0 0" max="2 1 1">
-        (3) 通用接口：保持出厂设置
+		(3) 通用接口：保持出厂设置
   </BoxAnnotation>
 
 <DiamondAnnotation pos="4 0.5 0.5" color="#00ff00">
-        主网络接入点
-    </DiamondAnnotation>
+		主网络接入点
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
@@ -40,8 +40,8 @@ navigation:
   - 物品过滤：设置目标物资（如铁锭）
   - 功能模块：安装<ItemLink id="redstone_card" />和<ItemLink id="crafting_card" />
   - 工作模式：  
-    → 红石控制：收到信号才运作  
-    → 合成策略：强制新建订单
+	→ 红石控制：收到信号才运作  
+	→ 合成策略：强制新建订单
 
 * <ItemLink id="level_emitter" /> (2)  
   - 监控物品：选择需要补货的物资

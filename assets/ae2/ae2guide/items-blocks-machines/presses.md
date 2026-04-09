@@ -36,15 +36,15 @@ item_ids:
 
 <Column>
   <Row>
-    <RecipeFor id="silicon_press" />
+	<RecipeFor id="silicon_press" />
 
-    <RecipeFor id="logic_processor_press" />
+	<RecipeFor id="logic_processor_press" />
   </Row>
 
   <Row>
-    <RecipeFor id="calculation_processor_press" />
+	<RecipeFor id="calculation_processor_press" />
 
-    <RecipeFor id="engineering_processor_press" />
+	<RecipeFor id="engineering_processor_press" />
   </Row>
 </Column>
 

@@ -19,32 +19,32 @@ navigation:
   <ImportStructure src="../assets/assemblies/regulated_cobble_gen.snbt" />
 
 <BoxAnnotation color="#dddddd" min="3 2 2" max="7 2.3 3">
-        (1) ME破坏面板：无需配置界面，可附魔效率/耐久降低能耗
+		(1) ME破坏面板：无需配置界面，可附魔效率/耐久降低能耗
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2 2 2" max="2.3 3 3">
-        (2) 存储总线：保持默认配置
+		(2) 存储总线：保持默认配置
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2.3 2.3 2" max="2.7 2.7 2.3">
-        (3) ME触发总线：必须位于子网侧而非主网侧
+		(3) ME触发总线：必须位于子网侧而非主网侧
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2.3 3 2.3" max="2.7 3.3 2.7">
-        (4) ME标准发信器：设置为"当数量低于阈值时发信"，配置原石和期望数量
+		(4) ME标准发信器：设置为"当数量低于阈值时发信"，配置原石和期望数量
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1 2 3" max="2 3 2">
-        (5) ME接口：保持默认配置
+		(5) ME接口：保持默认配置
   </BoxAnnotation>
 
 <DiamondAnnotation pos="0 2.5 1.5" color="#00ff00">
-        连接主网络
-    </DiamondAnnotation>
+		连接主网络
+	</DiamondAnnotation>
 
 <DiamondAnnotation pos="5 1.5 3.5" color="#00ff00">
-        含水台阶可防止水流扩散导致岩浆凝固为黑曜石
-    </DiamondAnnotation>
+		含水台阶可防止水流扩散导致岩浆凝固为黑曜石
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>

@@ -26,7 +26,7 @@ item_ids:
   <ImportStructure src="../assets/assemblies/quantum_bridge_internal_structure_2.snbt" />
 
   <BoxAnnotation color="#33dd33" min="1 1 1" max="6 2 3">
-        两端之间的虚拟线缆连接
+		两端之间的虚拟线缆连接
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />

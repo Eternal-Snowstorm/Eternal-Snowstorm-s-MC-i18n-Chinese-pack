@@ -41,15 +41,15 @@ item_ids:
   2. **预制印刷电路组件**
 
   <Row>
-    <RecipeFor id="printed_silicon" />
+	<RecipeFor id="printed_silicon" />
 
-    <RecipeFor id="printed_logic_processor" />
+	<RecipeFor id="printed_logic_processor" />
   </Row>
 
   <Row>
-    <RecipeFor id="printed_calculation_processor" />
+	<RecipeFor id="printed_calculation_processor" />
 
-    <RecipeFor id="printed_engineering_processor" />
+	<RecipeFor id="printed_engineering_processor" />
   </Row>
 
   <br />
@@ -57,9 +57,9 @@ item_ids:
   3. **最终组装成型**
 
   <Row>
-    <RecipeFor id="logic_processor" />
+	<RecipeFor id="logic_processor" />
 
-    <RecipeFor id="calculation_processor" />
+	<RecipeFor id="calculation_processor" />
   </Row>
 
   <RecipeFor id="engineering_processor" />

@@ -1,10 +1,11 @@
 {
-    "block.treetap.tap": "树液漏斗",
-    "block.treetap.sap_collector": "铁质收集桶",
-    "block.treetap.wooden_sap_collector": "木质收集桶",
-    "item.treetap.tap.modifier": "汲取速率: %s",
-    "jei.treetap.tap_extract": "树液汲取",
-    "jei.treetap.life_cycle.months": "%s",
-    "jei.treetap.life_cycle.all_year": "全年",
-    "config.jade.plugin_treetap.tap": "漏斗"
+	"block.treetap.tap": "树液漏斗",
+	"block.treetap.sap_collector": "铁质收集桶",
+	"block.treetap.wooden_sap_collector": "木质收集桶",
+	"item.treetap.tap.modifier": "汲取速率: %s",
+	"jei.treetap.tap_extract": "树液汲取",
+	"jei.treetap.life_cycle.months": "%s",
+	"jei.treetap.life_cycle.all_year": "全年",
+	"jei.treetap.tap_extract.processingTime": "填满时间: %s Tick(%s秒)",
+	"config.jade.plugin_treetap.tap": "漏斗"
 }

@@ -124,11 +124,11 @@ ME与Minecraft中的其他储存系统有极大的不同，并且你可能需要
 </GameScene>
 
 *   所需材料列表：
-    * 1x <ItemLink id="drive" />
-    * 1x <ItemLink id="terminal" />或<ItemLink id="crafting_terminal" />
-    * 1x <ItemLink id="energy_acceptor" />
-    * 一些[线缆](items-blocks-machines/cables.md)，玻璃的、包层的和智能的都行，但是不能用致密的
-    * 一些[存储元件](items-blocks-machines/storage_cells.md)，推荐4k版以取得容量与种类的平衡（用4k和1k的组合进行[分区](items-blocks-machines/cell_workbench.md)效率更高，但是太复杂，在此不深入讨论）
+	* 1x <ItemLink id="drive" />
+	* 1x <ItemLink id="terminal" />或<ItemLink id="crafting_terminal" />
+	* 1x <ItemLink id="energy_acceptor" />
+	* 一些[线缆](items-blocks-machines/cables.md)，玻璃的、包层的和智能的都行，但是不能用致密的
+	* 一些[存储元件](items-blocks-machines/storage_cells.md)，推荐4k版以取得容量与种类的平衡（用4k和1k的组合进行[分区](items-blocks-machines/cell_workbench.md)效率更高，但是太复杂，在此不深入讨论）
 
 ---
 

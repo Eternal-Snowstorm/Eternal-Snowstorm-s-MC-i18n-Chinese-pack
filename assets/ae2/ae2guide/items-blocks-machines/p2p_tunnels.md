@@ -74,7 +74,7 @@ ME通道最常用于[频道](../ae2-mechanics/channels.md)的高密度传输。�
   <ImportStructure src="../assets/assemblies/p2p_compact_channels.snbt" />
 
   <BoxAnnotation color="#dddddd" min="1.3 1.3 6.3" max="2 2.7 6.7">
-        石英纤维实现主网与子网间的能源共享
+		石英纤维实现主网与子网间的能源共享
   </BoxAnnotation>
 
   <IsometricCamera yaw="225" pitch="30" />

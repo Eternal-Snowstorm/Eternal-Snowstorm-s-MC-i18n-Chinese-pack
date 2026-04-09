@@ -77,17 +77,17 @@ item_ids:
 
 <Column>
   <Row>
-    <RecipeFor id="1k_crafting_storage" />
+	<RecipeFor id="1k_crafting_storage" />
 
-    <RecipeFor id="4k_crafting_storage" />
+	<RecipeFor id="4k_crafting_storage" />
 
-    <RecipeFor id="16k_crafting_storage" />
+	<RecipeFor id="16k_crafting_storage" />
   </Row>
 
   <Row>
-    <RecipeFor id="64k_crafting_storage" />
+	<RecipeFor id="64k_crafting_storage" />
 
-    <RecipeFor id="256k_crafting_storage" />
+	<RecipeFor id="256k_crafting_storage" />
   </Row>
 </Column>
 

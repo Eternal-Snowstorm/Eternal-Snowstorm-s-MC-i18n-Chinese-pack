@@ -22,39 +22,39 @@ navigation:
   <ImportStructure src="../assets/assemblies/import_export_storage.snbt" />
 
   <BoxAnnotation color="#dddddd" min="8 1 1" max="9 1.3 2">
-        输入总线从它们面向的容器中提取物品送入网络存储
+		输入总线从它们面向的容器中提取物品送入网络存储
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="8 2 1" max="9 3 1.3">
-        从你的物品栏里把物品放入网络算作物品被送入网络存储
+		从你的物品栏里把物品放入网络算作物品被送入网络存储
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="7 0 1" max="8 1 2">
-        如果相应槽位未被配置或是存储量超过配置量，接口会将它的内部储存送入网络，因此可将物品送入其中以将其送入网络
+		如果相应槽位未被配置或是存储量超过配置量，接口会将它的内部储存送入网络，因此可将物品送入其中以将其送入网络
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="6 0 1" max="7 1 2">
-        样板供应器会把产物返回栏内的物品送入网络，因此可将物品送入其中以将其送入网络
+		样板供应器会把产物返回栏内的物品送入网络，因此可将物品送入其中以将其送入网络
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 1 1" max="5 2 2">
-        驱动器把其中的存储元件用于网络存储
+		驱动器把其中的存储元件用于网络存储
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="3 1 1" max="4 1.3 2">
-        存储总线把其面向的容器用作网络存储
+		存储总线把其面向的容器用作网络存储
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1 1 1" max="2 1.3 2">
-        输出总线从网络存储中获取物品并送入它们面向的容器中
+		输出总线从网络存储中获取物品并送入它们面向的容器中
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1 2 1" max="2 3 1.3">
-        在终端处从网络里把物品取出算作物品被送出网络存储
+		在终端处从网络里把物品取出算作物品被送出网络存储
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="0 1 1" max="1 2 2">
-        如果相应槽位被配置为存储某物，接口会从网络中获取物品并存储在其内部存储中，因此可从中获取物品以从网络中获取物品
+		如果相应槽位被配置为存储某物，接口会从网络中获取物品并存储在其内部存储中，因此可从中获取物品以从网络中获取物品
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />

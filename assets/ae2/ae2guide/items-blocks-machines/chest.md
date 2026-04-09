@@ -39,10 +39,10 @@ ME箱子集成了<ItemLink id="terminal" />、<ItemLink id="drive" />和<ItemLin
 
 ## 元件状态指示灯
 
-| 颜色   | 状态描述                  |
+| 颜色   | 状态描述				  |
 | :----- | :----------------------- |
-| 绿色   | 元件为空                  |
-| 蓝色   | 元件有存储内容            |
+| 绿色   | 元件为空				  |
+| 蓝色   | 元件有存储内容			|
 | 橙色   | [类型容量](../ae2-mechanics/bytes-and-types.md)已满 |
 | 红色   | [存储容量](../ae2-mechanics/bytes-and-types.md)已满 |
 | 黑色   | 断电或未分配[频道](../ae2-mechanics/channels.md) |

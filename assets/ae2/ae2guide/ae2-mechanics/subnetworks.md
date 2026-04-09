@@ -10,27 +10,27 @@ navigation:
 <ImportStructure src="../assets/assemblies/subnet_demonstration.snbt" />
 
 <DiamondAnnotation pos="6.5 2.5 0.5" color="#00ff00">
-        物品管道子网
+		物品管道子网
 </DiamondAnnotation>
 
 <DiamondAnnotation pos="5.5 2.5 0.5" color="#00ff00">
-        流体管道子网
+		流体管道子网
 </DiamondAnnotation>
 
 <DiamondAnnotation pos="4.5 2.5 0.5" color="#00ff00">
-        过滤型ME破坏面板
+		过滤型ME破坏面板
 </DiamondAnnotation>
 
 <DiamondAnnotation pos="3.5 2.5 0.5" color="#00ff00">
-        ME成型面板子网
+		ME成型面板子网
 </DiamondAnnotation>
 
 <DiamondAnnotation pos="2.5 2.5 0.5" color="#00ff00">
-        接口-存储总线联动物联网（主网络可访问的本地二级存储）
+		接口-存储总线联动物联网（主网络可访问的本地二级存储）
 </DiamondAnnotation>
 
 <DiamondAnnotation pos="1.5 1.5 0.5" color="#00ff00">
-        物品回传子网（将充能物品送回ME样板供应器）
+		物品回传子网（将充能物品送回ME样板供应器）
 </DiamondAnnotation>
 
 <IsometricCamera yaw="195" pitch="30" />

@@ -1,8 +1,8 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: ME阈值输出总线
-    icon: expatternprovider:threshold_export_bus
+	parent: epp_intro/epp_intro-index.md
+	title: ME阈值输出总线
+	icon: expatternprovider:threshold_export_bus
 categories:
 - extended devices
 item_ids:

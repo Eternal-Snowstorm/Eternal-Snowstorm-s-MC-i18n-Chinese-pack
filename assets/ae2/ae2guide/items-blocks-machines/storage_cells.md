@@ -30,27 +30,27 @@ item_ids:
 
 <Column>
   <Row>
-    <ItemImage id="item_storage_cell_1k" scale="4" />
+	<ItemImage id="item_storage_cell_1k" scale="4" />
 
-    <ItemImage id="item_storage_cell_4k" scale="4" />
+	<ItemImage id="item_storage_cell_4k" scale="4" />
 
-    <ItemImage id="item_storage_cell_16k" scale="4" />
+	<ItemImage id="item_storage_cell_16k" scale="4" />
 
-    <ItemImage id="item_storage_cell_64k" scale="4" />
+	<ItemImage id="item_storage_cell_64k" scale="4" />
 
-    <ItemImage id="item_storage_cell_256k" scale="4" />
+	<ItemImage id="item_storage_cell_256k" scale="4" />
   </Row>
 
   <Row>
-    <ItemImage id="fluid_storage_cell_1k" scale="4" />
+	<ItemImage id="fluid_storage_cell_1k" scale="4" />
 
-    <ItemImage id="fluid_storage_cell_4k" scale="4" />
+	<ItemImage id="fluid_storage_cell_4k" scale="4" />
 
-    <ItemImage id="fluid_storage_cell_16k" scale="4" />
+	<ItemImage id="fluid_storage_cell_16k" scale="4" />
 
-    <ItemImage id="fluid_storage_cell_64k" scale="4" />
+	<ItemImage id="fluid_storage_cell_64k" scale="4" />
 
-    <ItemImage id="fluid_storage_cell_256k" scale="4" />
+	<ItemImage id="fluid_storage_cell_256k" scale="4" />
   </Row>
 </Column>
 
@@ -64,13 +64,13 @@ item_ids:
 
 由于[类型预占机制](../ae2-mechanics/bytes-and-types.md)，存储1种类型的元件容量是存储63种类型时的约2倍。
 
-| 元件                                    | 单类型存储总容量 | 满类型（63种）存储总容量 |
+| 元件									| 单类型存储总容量 | 满类型（63种）存储总容量 |
 | -------------------------------------- | --------------: | ----------------------: |
-| <ItemLink id="item_storage_cell_1k" /> |           8,128 |                   4,160 |
-| <ItemLink id="item_storage_cell_4k" /> |          32,512 |                  16,640 |
-| <ItemLink id="item_storage_cell_16k" />|         130,048 |                  66,560 |
-| <ItemLink id="item_storage_cell_64k" />|         520,192 |                 266,240 |
-| <ItemLink id="item_storage_cell_256k" />|       2,080,768 |               1,064,960 |
+| <ItemLink id="item_storage_cell_1k" /> |		   8,128 |				   4,160 |
+| <ItemLink id="item_storage_cell_4k" /> |		  32,512 |				  16,640 |
+| <ItemLink id="item_storage_cell_16k" />|		 130,048 |				  66,560 |
+| <ItemLink id="item_storage_cell_64k" />|		 520,192 |				 266,240 |
+| <ItemLink id="item_storage_cell_256k" />|	   2,080,768 |			   1,064,960 |
 
 ## 分区过滤
 
@@ -116,17 +116,17 @@ item_ids:
 
 <Column>
   <Row>
-    <RecipeFor id="cell_component_1k" />
+	<RecipeFor id="cell_component_1k" />
 
-    <RecipeFor id="cell_component_4k" />
+	<RecipeFor id="cell_component_4k" />
 
-    <RecipeFor id="cell_component_16k" />
+	<RecipeFor id="cell_component_16k" />
   </Row>
 
   <Row>
-    <RecipeFor id="cell_component_64k" />
+	<RecipeFor id="cell_component_64k" />
 
-    <RecipeFor id="cell_component_256k" />
+	<RecipeFor id="cell_component_256k" />
   </Row>
 </Column>
 
@@ -136,17 +136,17 @@ item_ids:
 
 <Column>
   <Row>
-    <Recipe id="network/cells/item_storage_cell_1k_storage" />
+	<Recipe id="network/cells/item_storage_cell_1k_storage" />
 
-    <Recipe id="network/cells/item_storage_cell_4k_storage" />
+	<Recipe id="network/cells/item_storage_cell_4k_storage" />
 
-    <Recipe id="network/cells/item_storage_cell_16k_storage" />
+	<Recipe id="network/cells/item_storage_cell_16k_storage" />
   </Row>
 
   <Row>
-    <Recipe id="network/cells/item_storage_cell_64k_storage" />
+	<Recipe id="network/cells/item_storage_cell_64k_storage" />
 
-    <Recipe id="network/cells/item_storage_cell_256k_storage" />
+	<Recipe id="network/cells/item_storage_cell_256k_storage" />
   </Row>
 </Column>
 
@@ -160,17 +160,17 @@ item_ids:
 
 <Column>
   <Row>
-    <RecipeFor id="portable_item_cell_1k" />
+	<RecipeFor id="portable_item_cell_1k" />
 
-    <RecipeFor id="portable_item_cell_4k" />
+	<RecipeFor id="portable_item_cell_4k" />
 
-    <RecipeFor id="portable_item_cell_16k" />
+	<RecipeFor id="portable_item_cell_16k" />
   </Row>
 
   <Row>
-    <RecipeFor id="portable_item_cell_64k" />
+	<RecipeFor id="portable_item_cell_64k" />
 
-    <RecipeFor id="portable_item_cell_256k" />
+	<RecipeFor id="portable_item_cell_256k" />
   </Row>
 </Column>
 
@@ -180,17 +180,17 @@ item_ids:
 
 <Column>
   <Row>
-    <Recipe id="network/cells/fluid_storage_cell_1k_storage" />
+	<Recipe id="network/cells/fluid_storage_cell_1k_storage" />
 
-    <Recipe id="network/cells/fluid_storage_cell_4k_storage" />
+	<Recipe id="network/cells/fluid_storage_cell_4k_storage" />
 
-    <Recipe id="network/cells/fluid_storage_cell_16k_storage" />
+	<Recipe id="network/cells/fluid_storage_cell_16k_storage" />
   </Row>
 
   <Row>
-    <Recipe id="network/cells/fluid_storage_cell_64k_storage" />
+	<Recipe id="network/cells/fluid_storage_cell_64k_storage" />
 
-    <Recipe id="network/cells/fluid_storage_cell_256k_storage" />
+	<Recipe id="network/cells/fluid_storage_cell_256k_storage" />
   </Row>
 </Column>
 
@@ -204,17 +204,17 @@ item_ids:
 
 <Column>
   <Row>
-    <RecipeFor id="portable_fluid_cell_1k" />
+	<RecipeFor id="portable_fluid_cell_1k" />
 
-    <RecipeFor id="portable_fluid_cell_4k" />
+	<RecipeFor id="portable_fluid_cell_4k" />
 
-    <RecipeFor id="portable_fluid_cell_16k" />
+	<RecipeFor id="portable_fluid_cell_16k" />
   </Row>
 
   <Row>
-    <RecipeFor id="portable_fluid_cell_64k" />
+	<RecipeFor id="portable_fluid_cell_64k" />
 
-    <RecipeFor id="portable_fluid_cell_256k" />
+	<RecipeFor id="portable_fluid_cell_256k" />
   </Row>
 </Column>
 

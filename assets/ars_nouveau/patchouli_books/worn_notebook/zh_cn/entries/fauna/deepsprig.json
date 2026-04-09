@@ -3,13 +3,13 @@
   "icon": "ars_nouveau:whirlisprig_shards",
   "name": "深层风转草",
   "pages": [
-    {
-      "type": "patchouli:text",
-      "text": "风转草的真菌同胞，住在地下，培育真菌。"
-    },
-    {
-      "type": "patchouli:entity",
-      "entity": "ars_fauna:deepsprig"
-    }
+	{
+	  "type": "patchouli:text",
+	  "text": "风转草的真菌同胞，住在地下，培育真菌。"
+	},
+	{
+	  "type": "patchouli:entity",
+	  "entity": "ars_fauna:deepsprig"
+	}
   ]
 }

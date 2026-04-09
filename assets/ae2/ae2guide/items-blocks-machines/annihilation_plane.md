@@ -32,11 +32,11 @@ ME破坏面板具备破坏方块与收集物品的功能，其工作原理类似
   <ImportStructure src="../assets/assemblies/annihilation_filtering.snbt" />
 
   <DiamondAnnotation pos="1 0.5 0.5" color="#00ff00">
-        过滤目标方块的掉落物
+		过滤目标方块的掉落物
   </DiamondAnnotation>
 
   <DiamondAnnotation pos=".5 0.5 2.5" color="#00ff00">
-        对掉落物进行存储分区
+		对掉落物进行存储分区
   </DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />

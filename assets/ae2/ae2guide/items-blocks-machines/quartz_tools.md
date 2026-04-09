@@ -51,30 +51,30 @@ item_ids:
 
 <Column>
   <Row>
-    <RecipeFor id="certus_quartz_axe" />
+	<RecipeFor id="certus_quartz_axe" />
 
-    <RecipeFor id="certus_quartz_hoe" />
+	<RecipeFor id="certus_quartz_hoe" />
 
-    <RecipeFor id="certus_quartz_shovel" />
+	<RecipeFor id="certus_quartz_shovel" />
   </Row>
 
   <Row>
-    <RecipeFor id="certus_quartz_pickaxe" />
+	<RecipeFor id="certus_quartz_pickaxe" />
 
-    <RecipeFor id="certus_quartz_sword" />
+	<RecipeFor id="certus_quartz_sword" />
   </Row>
 
   <Row>
-    <RecipeFor id="nether_quartz_axe" />
+	<RecipeFor id="nether_quartz_axe" />
 
-    <RecipeFor id="nether_quartz_hoe" />
+	<RecipeFor id="nether_quartz_hoe" />
 
-    <RecipeFor id="nether_quartz_shovel" />
+	<RecipeFor id="nether_quartz_shovel" />
   </Row>
 
   <Row>
-    <RecipeFor id="nether_quartz_pickaxe" />
+	<RecipeFor id="nether_quartz_pickaxe" />
 
-    <RecipeFor id="nether_quartz_sword" />
+	<RecipeFor id="nether_quartz_sword" />
   </Row>
 </Column>

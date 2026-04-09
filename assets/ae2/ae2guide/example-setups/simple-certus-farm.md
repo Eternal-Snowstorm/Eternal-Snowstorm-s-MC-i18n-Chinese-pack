@@ -17,22 +17,22 @@ navigation:
   <ImportStructure src="../assets/assemblies/simple_certus_farm.snbt" />
 
   <BoxAnnotation color="#dddddd" min="3.7 1 1" max="4 2 2">
-        (1) ME破坏面板：无需配置，可附魔时运
+		(1) ME破坏面板：无需配置，可附魔时运
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="3 1 1" max="3.3 2 2">
-        (2) 存储总线#1：过滤赛特斯石英水晶
-        <ItemImage id="certus_quartz_crystal" scale="2" />
+		(2) 存储总线#1：过滤赛特斯石英水晶
+		<ItemImage id="certus_quartz_crystal" scale="2" />
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="3 1 .7" max="2 2 1">
-        (3) 存储总线#2：过滤赛特斯水晶，优先级高于主存储
-        <ItemImage id="certus_quartz_crystal" scale="2" />
+		(3) 存储总线#2：过滤赛特斯水晶，优先级高于主存储
+		<ItemImage id="certus_quartz_crystal" scale="2" />
   </BoxAnnotation>
 
 <DiamondAnnotation pos="1 0.5 0.5" color="#00ff00">
-        连接主网络
-    </DiamondAnnotation>
+		连接主网络
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>

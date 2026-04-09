@@ -11,7 +11,7 @@ navigation:
   <ImportStructure src="../assets/assemblies/spatial_storage_1x1x1.snbt" />
 
   <BoxAnnotation color="#33dd33" min="1 1 1" max="2 2 2">
-        将要被移动的区域
+		将要被移动的区域
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
@@ -72,7 +72,7 @@ navigation:
 <ImportStructure src="../assets/assemblies/spatial_storage_3x3x3_pylon_demonstration.snbt" />
 
 <BoxAnnotation color="#33dd33" min="1 1 1" max="4 4 4">
-        将要被移动的区域
+		将要被移动的区域
   </BoxAnnotation>
 
 <BoxAnnotation color="#3333ff" min="5 5 0" max="0 0 5">
@@ -87,7 +87,7 @@ navigation:
 <ImportStructure src="../assets/assemblies/better_spatial_storage_3x3x3.snbt" />
 
 <BoxAnnotation color="#33dd33" min="1 1 1" max="4 4 4">
-        将要被移动的区域
+		将要被移动的区域
   </BoxAnnotation>
 
 <BoxAnnotation color="#3333ff" min="5 5 0" max="0 0 5">

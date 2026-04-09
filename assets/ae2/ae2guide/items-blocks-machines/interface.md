@@ -32,35 +32,35 @@ item_ids:
   <ImportStructure src="../assets/assemblies/interface_internals.snbt" />
 
   <BoxAnnotation color="#dddddd" min="1.3 0.3 1.3" max="9.7 1 1.7">
-        控制库存数量的多组电平发信器
-        <GameScene zoom="4" background="transparent">
-        <ImportStructure src="../assets/blocks/level_emitter.snbt" />
-        </GameScene>
+		控制库存数量的多组电平发信器
+		<GameScene zoom="4" background="transparent">
+		<ImportStructure src="../assets/blocks/level_emitter.snbt" />
+		</GameScene>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1.3 4 1.3" max="9.7 4.7 1.7">
-        控制库存数量的多组电平发信器
-        <GameScene zoom="4" background="transparent">
-        <ImportStructure src="../assets/blocks/level_emitter.snbt" />
-        </GameScene>
+		控制库存数量的多组电平发信器
+		<GameScene zoom="4" background="transparent">
+		<ImportStructure src="../assets/blocks/level_emitter.snbt" />
+		</GameScene>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1.3 1.3 1.3" max="9.7 2 1.7">
-        单游戏刻可传输1组物品的超级输入总线阵列
-        <GameScene zoom="4" background="transparent">
-        <ImportStructure src="../assets/blocks/import_bus.snbt" />
-        </GameScene>
+		单游戏刻可传输1组物品的超级输入总线阵列
+		<GameScene zoom="4" background="transparent">
+		<ImportStructure src="../assets/blocks/import_bus.snbt" />
+		</GameScene>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1.3 3 1.3" max="9.7 3.7 1.7">
-        单游戏刻可传输1组物品的超级输出总线阵列
-        <GameScene zoom="4" background="transparent">
-        <ImportStructure src="../assets/blocks/export_bus.snbt" />
-        </GameScene>
+		单游戏刻可传输1组物品的超级输出总线阵列
+		<GameScene zoom="4" background="transparent">
+		<ImportStructure src="../assets/blocks/export_bus.snbt" />
+		</GameScene>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1 2 1" max="10 3 2">
-        9个独立存储槽位
+		9个独立存储槽位
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="15" />
@@ -83,15 +83,15 @@ item_ids:
 <ImportStructure src="../assets/assemblies/provider_interface_storage.snbt" />
 
 <BoxAnnotation color="#dddddd" min="2.7 0 1" max="3 1 2">
-        接口（必须为扁平版）
+		接口（必须为扁平版）
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 0 0" max="1.3 1 4">
-        存储总线阵列
+		存储总线阵列
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 0 0" max="1 1 4">
-        目标机器（可多台或多面输入）
+		目标机器（可多台或多面输入）
   </BoxAnnotation>
 
 <IsometricCamera yaw="185" pitch="30" />

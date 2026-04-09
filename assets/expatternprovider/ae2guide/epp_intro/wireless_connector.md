@@ -1,8 +1,8 @@
 ---
 navigation:
-    parent: epp_intro/epp_intro-index.md
-    title: ME无线连接器
-    icon: expatternprovider:wireless_connect
+	parent: epp_intro/epp_intro-index.md
+	title: ME无线连接器
+	icon: expatternprovider:wireless_connect
 categories:
 - extended devices
 item_ids:

@@ -17,20 +17,20 @@ navigation:
   <ImportStructure src="../assets/assemblies/import_storage_pipe.snbt" />
 
 <BoxAnnotation color="#dddddd" min="3.7 0 0" max="4 1 1">
-        (1) ME输入总线：可设置过滤
+		(1) ME输入总线：可设置过滤
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 0 0" max="1.3 1 1">
-        (2) 存储总线：可设置过滤（需作为子网唯一存储端）
+		(2) 存储总线：可设置过滤（需作为子网唯一存储端）
   </BoxAnnotation>
 
 <DiamondAnnotation pos="4.5 0.5 0.5" color="#00ff00">
-        来源端
-    </DiamondAnnotation>
+		来源端
+	</DiamondAnnotation>
 
 <DiamondAnnotation pos="0.5 0.5 0.5" color="#00ff00">
-        目标端
-    </DiamondAnnotation>
+		目标端
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
@@ -50,20 +50,20 @@ navigation:
   <ImportStructure src="../assets/assemblies/storage_export_pipe.snbt" />
 
 <BoxAnnotation color="#dddddd" min="3.7 0 0" max="4 1 1">
-        (1) 存储总线：可设置过滤（需作为子网唯一存储端）
+		(1) 存储总线：可设置过滤（需作为子网唯一存储端）
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 0 0" max="1.3 1 1">
-        (2) ME输出总线：必须设置过滤
+		(2) ME输出总线：必须设置过滤
   </BoxAnnotation>
 
 <DiamondAnnotation pos="4.5 0.5 0.5" color="#00ff00">
-        来源端
-    </DiamondAnnotation>
+		来源端
+	</DiamondAnnotation>
 
 <DiamondAnnotation pos="0.5 0.5 0.5" color="#00ff00">
-        目标端
-    </DiamondAnnotation>
+		目标端
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
@@ -83,20 +83,20 @@ navigation:
   <ImportStructure src="../assets/assemblies/import_export_pipe.snbt" />
 
 <BoxAnnotation color="#dd3333" min="3.7 0 0" max="4 1 1">
-        ME输入总线：网络无存储导致无法导入
+		ME输入总线：网络无存储导致无法导入
   </BoxAnnotation>
 
 <BoxAnnotation color="#dd3333" min="1 0 0" max="1.3 1 1">
-        ME输出总线：网络无存储导致无法导出
+		ME输出总线：网络无存储导致无法导出
   </BoxAnnotation>
 
 <DiamondAnnotation pos="4.5 0.5 0.5" color="#ff0000">
-        来源端
-    </DiamondAnnotation>
+		来源端
+	</DiamondAnnotation>
 
 <DiamondAnnotation pos="0.5 0.5 0.5" color="#ff0000">
-        目标端
-    </DiamondAnnotation>
+		目标端
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
@@ -112,28 +112,28 @@ navigation:
   <ImportStructure src="../assets/assemblies/import_storage_export_pipe.snbt" />
 
 <BoxAnnotation color="#dddddd" min="4 1 1" max="5 1.3 2">
-        (1) ME输入总线：可设置过滤
+		(1) ME输入总线：可设置过滤
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="2 1 1" max="3 1.3 2">
-        (2) 存储总线：可设置过滤（需作为子网唯一存储端）
+		(2) 存储总线：可设置过滤（需作为子网唯一存储端）
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="2 0 1" max="3 1 2">
-        (3) 目标设备（示例为充能器）
+		(3) 目标设备（示例为充能器）
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 1 1" max="1 1.3 2">
-        (4) ME输出总线：必须设置过滤
+		(4) ME输出总线：必须设置过滤
   </BoxAnnotation>
 
 <DiamondAnnotation pos="4.5 0.5 1.5" color="#00ff00">
-        来源端
-    </DiamondAnnotation>
+		来源端
+	</DiamondAnnotation>
 
 <DiamondAnnotation pos="0.5 0.5 1.5" color="#00ff00">
-        目标端
-    </DiamondAnnotation>
+		目标端
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
@@ -148,19 +148,19 @@ navigation:
 <ImportStructure src="../assets/assemblies/interface_pipes.snbt" />
 
 <BoxAnnotation color="#dddddd" min="3.7 0 0" max="4 1 1">
-        ME接口
+		ME接口
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 0 0" max="1.3 1 1">
-        存储总线
+		存储总线
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3.7 0 2" max="4 1 3">
-        存储总线
+		存储总线
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 1 2" max="1 1.3 3">
-        存储总线
+		存储总线
   </BoxAnnotation>
 
 <IsometricCamera yaw="195" pitch="30" />
@@ -185,15 +185,15 @@ navigation:
 <ImportStructure src="../assets/assemblies/provider_interface_storage.snbt" />
 
 <BoxAnnotation color="#dddddd" min="2.7 0 1" max="3 1 2">
-        ME接口（需配置为紧凑型）
+		ME接口（需配置为紧凑型）
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 0 0" max="1.3 1 4">
-        存储总线阵列
+		存储总线阵列
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 0 0" max="1 1 4">
-        多目标设备（单设备多面或多台设备）
+		多目标设备（单设备多面或多台设备）
   </BoxAnnotation>
 
 <IsometricCamera yaw="185" pitch="30" />

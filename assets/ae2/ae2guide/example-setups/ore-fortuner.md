@@ -15,33 +15,33 @@ navigation:
   <ImportStructure src="../assets/assemblies/ore_fortuner.snbt" />
 
   <BoxAnnotation color="#dddddd" min="2.7 0 2" max="3 1 3">
-        (1) ME输入总线：安装多张加速卡
-        <ItemImage id="speed_card" scale="2" />
+		(1) ME输入总线：安装多张加速卡
+		<ItemImage id="speed_card" scale="2" />
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="0 0 2" max="2 1 2.3">
-        (2) ME成型面板：保持默认配置
+		(2) ME成型面板：保持默认配置
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="0 0 0.7" max="2 1 1">
-        (3) ME破坏面板：附魔时运III（无需配置界面）
+		(3) ME破坏面板：附魔时运III（无需配置界面）
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2.7 0 0" max="3 1 1">
-        (4) 存储总线：保持默认配置
+		(4) 存储总线：保持默认配置
   </BoxAnnotation>
 
 <DiamondAnnotation pos="3.5 0.5 2.5" color="#00ff00">
-        输入端
-    </DiamondAnnotation>
+		输入端
+	</DiamondAnnotation>
 
 <DiamondAnnotation pos="3.5 0.5 0.5" color="#00ff00">
-        输出端
-    </DiamondAnnotation>
+		输出端
+	</DiamondAnnotation>
 
 <DiamondAnnotation pos="4 0.5 1.5" color="#00ff00">
-        连接主网络
-    </DiamondAnnotation>
+		连接主网络
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>

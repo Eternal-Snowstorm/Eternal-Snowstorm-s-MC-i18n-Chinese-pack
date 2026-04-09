@@ -15,33 +15,33 @@ navigation:
   <ImportStructure src="../assets/assemblies/local_storage.snbt" />
 
 <BoxAnnotation color="#dddddd" min="4 0 0" max="5 2 1">
-        (1) 物品输入方式（本例使用ME接口）
+		(1) 物品输入方式（本例使用ME接口）
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3 0 0" max="4 1 1">
-        (2) ME驱动器：内置存储元件，元件需过滤农场产物。可安装均分卡和溢出销毁卡
-        <Row><ItemImage id="item_storage_cell_4k" scale="2" /> <ItemImage id="equal_distribution_card" scale="2" /> <ItemImage id="void_card" scale="2" /></Row>
+		(2) ME驱动器：内置存储元件，元件需过滤农场产物。可安装均分卡和溢出销毁卡
+		<Row><ItemImage id="item_storage_cell_4k" scale="2" /> <ItemImage id="equal_distribution_card" scale="2" /> <ItemImage id="void_card" scale="2" /></Row>
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3 1 0" max="4 2 0.3">
-        (3) 合成终端：仅查看子网驱动器内容，无法访问主网络存储
+		(3) 合成终端：仅查看子网驱动器内容，无法访问主网络存储
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="2 0 0" max="2.3 1 1">
-        (4) ME接口#2：保持默认配置
+		(4) ME接口#2：保持默认配置
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1.7 0 0" max="2 1 1">
-        (5) 存储总线：优先级高于主存储，可过滤农场产物
+		(5) 存储总线：优先级高于主存储，可过滤农场产物
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 1 0" max="2 2 0.3">
-        合成终端：可同时查看主网络存储和子网内容
+		合成终端：可同时查看主网络存储和子网内容
   </BoxAnnotation>
 
 <DiamondAnnotation pos="0 0.5 0.5" color="#00ff00">
-        连接主网络
-    </DiamondAnnotation>
+		连接主网络
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>

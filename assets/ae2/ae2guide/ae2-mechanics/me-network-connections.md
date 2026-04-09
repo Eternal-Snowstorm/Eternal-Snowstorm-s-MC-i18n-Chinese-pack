@@ -32,11 +32,11 @@ navigation:
   <ImportStructure src="../assets/assemblies/2_networks_1.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="1 2 2">
-        网络1
+		网络1
   </BoxAnnotation>
 
 <BoxAnnotation color="#915dcd" min="2 0 0" max="3 2 2">
-        网络2
+		网络2
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
@@ -48,11 +48,11 @@ navigation:
   <ImportStructure src="../assets/assemblies/2_networks_2.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="1 2 2">
-        网络1
+		网络1
   </BoxAnnotation>
 
   <BoxAnnotation color="#915dcd" min="1.3 0 0" max="3 2 2">
-        网络2
+		网络2
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
@@ -65,7 +65,7 @@ navigation:
   <ImportStructure src="../assets/assemblies/actually_1_network.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="7 3 3">
-        整体为1个网络
+		整体为1个网络
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
@@ -76,7 +76,7 @@ navigation:
   <ImportStructure src="../assets/assemblies/actually_1_network_2.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="4 2 2">
-        整体为1个网络
+		整体为1个网络
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
@@ -91,7 +91,7 @@ navigation:
   <ImportStructure src="../assets/assemblies/pattern_provider_network_connection_1.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="4 2 2">
-        整体为1个网络
+		整体为1个网络
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
@@ -105,11 +105,11 @@ navigation:
   <ImportStructure src="../assets/assemblies/pattern_provider_network_connection_2.snbt" />
 
   <BoxAnnotation color="#915dcd" min="0 0 0" max="2 2 2">
-        网络1
+		网络1
   </BoxAnnotation>
 
   <BoxAnnotation color="#915dcd" min="2 0 0" max="4 2 2">
-        网络2
+		网络2
   </BoxAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
@@ -119,7 +119,7 @@ navigation:
   <ImportStructure src="../assets/assemblies/pattern_provider_directional_connection.snbt" />
 
   <BoxAnnotation color="#ee3333" min="1 .3 .3" max="1.3 .7 .7">
-        注意看线缆为何没有连接在一起
+		注意看线缆为何没有连接在一起
   </BoxAnnotation>
 
   <IsometricCamera yaw="255" pitch="30" />

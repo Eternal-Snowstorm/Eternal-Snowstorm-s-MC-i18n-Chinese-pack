@@ -19,31 +19,31 @@ navigation:
   <ImportStructure src="../assets/assemblies/amethyst_farm.snbt" />
 
   <BoxAnnotation color="#dddddd" min="2.7 1 1" max="3 2 2">
-        (1) ME破坏面板#1：无配置界面，需附魔精准采集
+		(1) ME破坏面板#1：无配置界面，需附魔精准采集
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2 1 1" max="2.3 2 2">
-        (2) ME成型面板：过滤设置为紫水晶晶簇
-        <ItemImage id="minecraft:amethyst_cluster" scale="2" />
+		(2) ME成型面板：过滤设置为紫水晶晶簇
+		<ItemImage id="minecraft:amethyst_cluster" scale="2" />
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1.3 0.7 1" max="2 1 2">
-        (3) ME破坏面板#2：无配置界面，可附魔时运
+		(3) ME破坏面板#2：无配置界面，可附魔时运
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="1 0 1" max="1.3 1 2">
-        (4) 存储总线#1：过滤设置为紫水晶碎片
-        <ItemImage id="minecraft:amethyst_shard" scale="2" />
+		(4) 存储总线#1：过滤设置为紫水晶碎片
+		<ItemImage id="minecraft:amethyst_shard" scale="2" />
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="0 0 .7" max="1 1 1">
-        (5) 存储总线#2：过滤设置为紫水晶碎片，优先级高于主存储
-        <ItemImage id="minecraft:amethyst_shard" scale="2" />
+		(5) 存储总线#2：过滤设置为紫水晶碎片，优先级高于主存储
+		<ItemImage id="minecraft:amethyst_shard" scale="2" />
   </BoxAnnotation>
 
 <DiamondAnnotation pos="0 0.5 0.5" color="#00ff00">
-        连接至主网络
-    </DiamondAnnotation>
+		连接至主网络
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>

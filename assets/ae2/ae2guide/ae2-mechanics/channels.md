@@ -57,8 +57,8 @@ navigation:
   <LineAnnotation color="#993333" from="3 .5 .5" to="3.25 .5 .5" alwaysOnTop={true}/>
 
   <DiamondAnnotation pos="3.6 0.5 0.5" color="#ff0000">
-        线缆中全部8个频道都被用完了，因此驱动器没有分得频道。
-    </DiamondAnnotation>
+		线缆中全部8个频道都被用完了，因此驱动器没有分得频道。
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="15" pitch="30" />
 </GameScene>
@@ -98,7 +98,7 @@ navigation:
   <LineAnnotation color="#ff3333" from="3 .5 3.4" to="1.6 .5 3.4" alwaysOnTop={true} thickness="0.05"/>
 
   <BoxAnnotation color="#dddddd" min="1.2 0.2 3.2" max="1.8 0.8 3.8" alwaysOnTop={true} thickness="0.05">
-        超过8个频道在路由时试图经过此处导致部分频道被截断。
+		超过8个频道在路由时试图经过此处导致部分频道被截断。
   </BoxAnnotation>
 
   <IsometricCamera yaw="90" pitch="90" />
@@ -240,17 +240,17 @@ navigation:
 <GameScene zoom="2.5" interactive={true}>
   <ImportStructure src="../assets/assemblies/treelike_network_structure.snbt" />
 
-    <BoxAnnotation color="#dddddd" min="6.9 0 4.9" max="9.1 4 7.1" thickness="0.05">
-        注意样板供应器是每8个一组的。
-    </BoxAnnotation>
+	<BoxAnnotation color="#dddddd" min="6.9 0 4.9" max="9.1 4 7.1" thickness="0.05">
+		注意样板供应器是每8个一组的。
+	</BoxAnnotation>
 
-    <BoxAnnotation color="#dddddd" min="5 4 4" max="8 5 5" thickness="0.05">
-        两个频道均占满的普通线缆汇集在一起，意味着你需要使用致密线缆。
-    </BoxAnnotation>
+	<BoxAnnotation color="#dddddd" min="5 4 4" max="8 5 5" thickness="0.05">
+		两个频道均占满的普通线缆汇集在一起，意味着你需要使用致密线缆。
+	</BoxAnnotation>
 
-    <BoxAnnotation color="#dddddd" min="5 0 13" max="8 1 14" thickness="0.05">
-        不同颜色的线缆用于防止相邻线缆相连。
-    </BoxAnnotation>
+	<BoxAnnotation color="#dddddd" min="5 0 13" max="8 1 14" thickness="0.05">
+		不同颜色的线缆用于防止相邻线缆相连。
+	</BoxAnnotation>
 
 
   <IsometricCamera yaw="315" pitch="30" />
@@ -267,10 +267,10 @@ navigation:
 
 下表列出了配置文件和命令中所有支持的模式。
 
-| 设置       | 描述                                                                                                                  |
+| 设置	   | 描述																												  |
 | ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| `default`  | 默认模式，线缆和自组织网络的频道承载力如本教程所述。                                                                      |
-| `x2`       | 所有频道的承载力翻一倍(普通线缆16，致密线缆64，自组织网络支持16频道)。                                                     |
-| `x3`       | 所有频道的承载力翻两倍(普通线缆24，致密线缆96，自组织网络支持24频道)。                                                     |
-| `x4`       | 所有频道的承载力翻三倍(普通线缆32，致密线缆128，自组织网络支持32频道)。                                                    |
+| `default`  | 默认模式，线缆和自组织网络的频道承载力如本教程所述。																	  |
+| `x2`	   | 所有频道的承载力翻一倍(普通线缆16，致密线缆64，自组织网络支持16频道)。													 |
+| `x3`	   | 所有频道的承载力翻两倍(普通线缆24，致密线缆96，自组织网络支持24频道)。													 |
+| `x4`	   | 所有频道的承载力翻三倍(普通线缆32，致密线缆128，自组织网络支持32频道)。													|
 | `infinite` | 所有频道的承载力不再受限。 控制器仍然会**大幅**降低网络能耗。智能线缆只会有完全关(未承载频道)和完全开(至少承载1个频道)两种状态。|

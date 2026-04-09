@@ -18,9 +18,9 @@ item_ids:
 # 空间存储元件
 
 <Row>
-    <ItemImage id="spatial_storage_cell_2" scale="4" />
-    <ItemImage id="spatial_storage_cell_16" scale="4" />
-    <ItemImage id="spatial_storage_cell_128" scale="4" />
+	<ItemImage id="spatial_storage_cell_2" scale="4" />
+	<ItemImage id="spatial_storage_cell_16" scale="4" />
+	<ItemImage id="spatial_storage_cell_128" scale="4" />
 </Row>
 
 空间存储元件用于[存储物理空间区域](../ae2-mechanics/spatial-io.md)，需在<ItemLink id="spatial_io_port" />（空间IO端口）中使用。
@@ -32,9 +32,9 @@ item_ids:
 ## 合成配方
 
 <Row>
-    <Recipe id="network/cells/spatial_storage_cell_2_cubed_storage" />
-    <Recipe id="network/cells/spatial_storage_cell_16_cubed_storage" />
-    <Recipe id="network/cells/spatial_storage_cell_128_cubed_storage" />
+	<Recipe id="network/cells/spatial_storage_cell_2_cubed_storage" />
+	<Recipe id="network/cells/spatial_storage_cell_16_cubed_storage" />
+	<Recipe id="network/cells/spatial_storage_cell_128_cubed_storage" />
 </Row>
 
 # 元件外壳
@@ -42,8 +42,8 @@ item_ids:
 空间存储元件可通过"空间组件+外壳"或"外壳包裹组件"两种方式合成：
 
 <Row>
-    <Recipe id="network/cells/spatial_storage_cell_2_cubed" />
-    <Recipe id="network/cells/spatial_storage_cell_2_cubed_storage" />
+	<Recipe id="network/cells/spatial_storage_cell_2_cubed" />
+	<Recipe id="network/cells/spatial_storage_cell_2_cubed_storage" />
 </Row>
 
 单独合成元件外壳配方：
@@ -55,7 +55,7 @@ item_ids:
 空间组件是空间存储元件的核心部件，每级组件的存储维度提升8倍：
 
 <Row>
-    <RecipeFor id="spatial_cell_component_2" />
-    <RecipeFor id="spatial_cell_component_16" />
-    <RecipeFor id="spatial_cell_component_128" />
+	<RecipeFor id="spatial_cell_component_2" />
+	<RecipeFor id="spatial_cell_component_16" />
+	<RecipeFor id="spatial_cell_component_128" />
 </Row>

@@ -1,9 +1,9 @@
 {
-    "item.create_hc.press_head": "辊压头",
-    "block.create_hc.gear_large": "大无轴齿轮",
-    "block.create_hc.shaft": "木传动杆",
-    "item.create_hc.drill_head": "钻头",
-    "item.create_hc.saw_blade": "锯片",
-    "item.create_hc.rope": "绳索",
-    "block.create_hc.gear_small": "小无轴齿轮"
+	"item.create_hc.press_head": "辊压头",
+	"block.create_hc.gear_large": "大无轴齿轮",
+	"block.create_hc.shaft": "木传动杆",
+	"item.create_hc.drill_head": "钻头",
+	"item.create_hc.saw_blade": "锯片",
+	"item.create_hc.rope": "绳索",
+	"block.create_hc.gear_small": "小无轴齿轮"
   }

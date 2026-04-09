@@ -38,16 +38,16 @@ item_ids:
 
 <Column>
   <Row>
-    <RecipeFor id="fluix_axe" />
+	<RecipeFor id="fluix_axe" />
 
-    <RecipeFor id="fluix_hoe" />
+	<RecipeFor id="fluix_hoe" />
 
-    <RecipeFor id="fluix_shovel" />
+	<RecipeFor id="fluix_shovel" />
   </Row>
 
   <Row>
-    <RecipeFor id="fluix_pickaxe" />
+	<RecipeFor id="fluix_pickaxe" />
 
-    <RecipeFor id="fluix_sword" />
+	<RecipeFor id="fluix_sword" />
   </Row>
 </Column>

@@ -1,7 +1,7 @@
 {
-    "block.cbc_nukes.nuke_shell": "核炮弹",
-    "block.createnukecannon.nuke_shell.tooltip.behaviour1": "引发一场剧烈的核爆炸，摧毁周围地形并对周边造成强烈核辐射",
-    "block.createnukecannon.nuke_shell.tooltip.condition1": "引爆",
-    "block.createnukecannon.nuke_shell.tooltip.summary": "\"现在我成了死神，世界的毁灭者。\"",
-    "entity.cbc_nukes.nuke_shell": "核炮弹"
+	"block.cbc_nukes.nuke_shell": "核炮弹",
+	"block.createnukecannon.nuke_shell.tooltip.behaviour1": "引发一场剧烈的核爆炸，摧毁周围地形并对周边造成强烈核辐射",
+	"block.createnukecannon.nuke_shell.tooltip.condition1": "引爆",
+	"block.createnukecannon.nuke_shell.tooltip.summary": "\"现在我成了死神，世界的毁灭者。\"",
+	"entity.cbc_nukes.nuke_shell": "核炮弹"
 }

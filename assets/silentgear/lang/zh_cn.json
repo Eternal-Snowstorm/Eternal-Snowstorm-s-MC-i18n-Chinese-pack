@@ -167,7 +167,7 @@
   "command.silentgear.recalculate": "已为玩家%s重新计算参数",
   "command.silentgear.set_damage.notDamageable": "%s无法被损伤",
   "command.silentgear.stats.info.format": "%s：[%s] -> %s",
-  "command.silentgear.stats.info.formatPart": "    - %s：[%s]",
+  "command.silentgear.stats.info.formatPart": "	- %s：[%s]",
   "command.silentgear.stats.info.header": "%s的%s 详细参数",
   "command.silentgear.traits.maxLevel": "最大等级：%d",
   "command.silentgear.traits.traitNotFound": "属性不存在",

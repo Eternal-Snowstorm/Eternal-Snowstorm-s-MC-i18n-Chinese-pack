@@ -15,17 +15,17 @@ navigation:
   <ImportStructure src="../assets/assemblies/interface_autostocking.snbt" />
 
 <BoxAnnotation color="#dddddd" min="0 0 0" max="2 1 1">
-        (1) ME接口：设置目标物品库存量，安装合成卡
-        <ItemImage id="crafting_card" scale="2" />
+		(1) ME接口：设置目标物品库存量，安装合成卡
+		<ItemImage id="crafting_card" scale="2" />
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="0 1 0" max="2 1.3 1">
-        (2) 存储总线：输入/输出模式设为"仅取出"
+		(2) 存储总线：输入/输出模式设为"仅取出"
   </BoxAnnotation>
 
 <DiamondAnnotation pos="4 0.5 0.5" color="#00ff00">
-        连接主网络
-    </DiamondAnnotation>
+		连接主网络
+	</DiamondAnnotation>
 
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
