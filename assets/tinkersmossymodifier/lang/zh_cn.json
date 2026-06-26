@@ -1,0 +1,7 @@
+{
+	"item.tinkersmossymodifier.ball_of_moss": "苔藓球",
+	"itemGroup.tinkersmossymodifier.items": "匠魂:苔藓强化",
+	"modifier.tinkersmossymodifier.auto_repair": "自动修复",
+	"modifier.tinkersmossymodifier.auto_repair.description": "会随着时间缓慢自行修复",
+	"modifier.tinkersmossymodifier.auto_repair.flavor": "重现昔日的修复之力"
+}
