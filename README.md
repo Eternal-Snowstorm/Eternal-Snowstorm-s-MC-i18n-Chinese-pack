@@ -8,3 +8,5 @@ I18n Update Mod 下载方式有
 MC百科：https://www.mcmod.cn/download/1188.html
 CurseForge：https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod
 Modrinth：https://modrinth.com/mod/i18nupdatemod
+
+打包可以直接双击`AutoPacking.bat`进行简单的打包, 打包会将`.git`之外的文件夹打包进去, 可以根绝需求自行修改
