@@ -1,0 +1,15 @@
+{
+	"curios.identifier.tiab": "TIAB",
+	"key.categories.curiotiab": "时间之瓶饰品支持",
+	"key.curiotiab.hide": "切换时间之瓶界面",
+	"key.curiotiab.use": "使用时间之瓶",
+	"msg.curiotiab.command.reload": "重新加载客户端配置",
+	"msg.screen.config.curiotiab.reset": "时间之瓶界面位置已重置",
+	"msg.screen.config.curiotiab.saved": "时间之瓶界面位置已保存",
+	"screen.curiotiab.config": "时间之瓶配置界面",
+	"screen.curiotiab.config.close": "按 ESC 退出配置界面",
+	"screen.curiotiab.config.closed": "已关闭时间之瓶配置界面",
+	"screen.curiotiab.config.drag": "点击并拖动以移动此界面",
+	"screen.curiotiab.config.reset": "按 Shift + R 重置界面设置",
+	"screen.curiotiab.config.save": "按 Shift + S 保存界面设置"
+}
