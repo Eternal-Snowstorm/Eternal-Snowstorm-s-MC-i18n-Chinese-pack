@@ -6,7 +6,7 @@ for %%i in ("%CD%") do set NAME=%%~nxi
 if exist "%NAME%.zip" del "%NAME%.zip"
 
 :: 黑名单(空格分隔)
-set EXCLUDE=.git .gitignore packing.bat %NAME%.zip
+set EXCLUDE=.git .gitignore AutoPacking.bat %NAME%.zip
 
 set FILES=
 
